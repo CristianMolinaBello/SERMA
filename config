@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "servidorlocal"]
+	url = /home/cristianm/SERMA/SERMA/
+	fetch = +refs/heads/*:refs/remotes/servidorlocal/*
